@@ -1,0 +1,14 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://khyati-s-blogging-website.onrender.com/api/:path*"
+    },
+    {
+      "source": "/",
+      "destination": "/ink-and-emotion"
+    }
+  ]
+}
