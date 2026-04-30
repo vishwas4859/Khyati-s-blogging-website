@@ -7,7 +7,7 @@
       "destination": "https://khyati-s-blogging-website.onrender.com/api/:path*"
     },
     {
-      "source": "/",
+      "source": "/:path*",
       "destination": "/ink-and-emotion"
     }
   ]
