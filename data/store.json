@@ -1,0 +1,139 @@
+{
+  "nextReviewId": 9,
+  "nextCommentId": 5,
+  "reviews": [
+    {
+      "id": 8,
+      "date": "April 30, 2026",
+      "likes": 0,
+      "title": "jhjk",
+      "bookAuthor": "dsfsb",
+      "genre": "fantasy",
+      "stars": 5,
+      "status": "published",
+      "emoji": "🏔️",
+      "content": "****fdsfs",
+      "excerpt": "fdsfs"
+    },
+    {
+      "id": 1,
+      "emoji": "📖",
+      "title": "\"Normal People\" — A Novel That Quietly Devastates",
+      "bookAuthor": "Sally Rooney",
+      "genre": "literary-fiction",
+      "stars": 5,
+      "status": "published",
+      "date": "March 1, 2025",
+      "likes": 134,
+      "excerpt": "Rooney writes about class, desire and communication with such precise cruelty that you finish the book feeling personally called out.",
+      "content": "## What This Book Does to You\n\nThere is no gentle way to say this: Sally Rooney will reach into your chest with this novel and rearrange something there permanently.\n\n> \"He had never been able to talk to anyone the way he talked to Marianne.\"\n\nNormal People follows Connell and Marianne through years of circling each other — at school, at university, across continents — never quite managing to say the right thing at the right time. It is a love story, yes, but more than that it is a novel about the way class and silence shape us without our permission.\n\n## The Writing\n\nRooney's prose is stripped bare. No quotation marks. No hand-holding. Sentences like scalpels. This austerity makes every moment of tenderness feel almost unbearable — which is exactly the point.\n\n## Final Thoughts\n\n[VERDICT] This is one of those rare novels that feels like it was written for you specifically. Devastating, luminous, and completely unforgettable."
+    },
+    {
+      "id": 2,
+      "emoji": "🌹",
+      "title": "\"The Midnight Library\" — Beautiful, if Imperfect",
+      "bookAuthor": "Matt Haig",
+      "genre": "literary-fiction",
+      "stars": 4,
+      "status": "published",
+      "date": "Feb 20, 2025",
+      "likes": 98,
+      "excerpt": "Haig's meditation on regret and the unlived life is both tender and a little too tidy — but the core idea is genuinely moving.",
+      "content": "## A Library Between Life and Death\n\nNora Seed is done with life. But somewhere between dying and dead, she finds the Midnight Library — a place where every book contains the life she could have lived if she'd made a different choice.\n\n> \"A person was like a city. You couldn't let a few disappointing streets ruin the whole place.\"\n\n## What Works\n\nHaig's central metaphor is gorgeous. The emotional core — that the life we have, messy and imperfect, is worth inhabiting — lands. There are moments of real tenderness, and the prose is warm and accessible without being condescending.\n\n## What Doesn't\n\nSome of the alternate lives feel rushed. The resolution comes a touch too easily. For a book about the complexity of regret, it occasionally ties things up a little too neatly.\n\n## Final Thoughts\n\n[VERDICT] A good book for a hard day. Read it wrapped in a blanket, let it make you feel hopeful, and don't ask it to be more than that."
+    },
+    {
+      "id": 3,
+      "emoji": "🏔️",
+      "title": "\"The Name of the Wind\" — A Masterwork of Voice",
+      "bookAuthor": "Patrick Rothfuss",
+      "genre": "fantasy",
+      "stars": 5,
+      "status": "published",
+      "date": "Feb 10, 2025",
+      "likes": 112,
+      "excerpt": "Kvothe's story is told with such narrative confidence that you forget you are reading. You are simply there, in the world.",
+      "content": "## A Story About Storytelling\n\nKvothe is a legend — a myth who is telling you, right now, that the myth is wrong. The Name of the Wind is structured as a man dictating his own biography over three days, and this framing device is the genius at the book's core.\n\n> \"It's the questions we can't answer that teach us the most. They teach us how to think.\"\n\n## The World\n\nRothfuss has constructed a world that feels genuinely deep — history and magic systems and music all layered together with remarkable care. The University sequences are some of the most delightful reading I've done in the genre.\n\n## A Warning\n\nBook three has been in progress for over a decade. Enter knowing you may wait a long time. Enter anyway.\n\n[VERDICT] One of the finest fantasy novels written. Read it for Kvothe's voice alone — there is nothing quite like it."
+    },
+    {
+      "id": 4,
+      "emoji": "🕯️",
+      "title": "\"Rebecca\" — Gothic Perfection, Still",
+      "bookAuthor": "Daphne du Maurier",
+      "genre": "classics",
+      "stars": 5,
+      "status": "published",
+      "date": "Jan 28, 2025",
+      "likes": 87,
+      "excerpt": "Last night I dreamt I went to Manderley again. If you know, you know. If you don't — please, go find out.",
+      "content": "## The Greatest Opening in English Literature\n\n\"Last night I dreamt I went to Manderley again.\" Seven words in and du Maurier has you. There is nothing more to say about that sentence except that it is perfect.\n\n> \"I could fight the living but I could not fight the dead.\"\n\n## Gothic Atmosphere as Character\n\nManderley — the house — is as alive as any human in this novel. Du Maurier understood that dread is architectural. The shadows in the corridors, the west wing kept locked, the omnipresent perfume of the dead woman: all of it conspires to make the narrator (never named) feel she is an intruder in her own life.\n\n## The Narrator\n\nShe is naive, insecure, and utterly endearing. Watching her grow into herself — quietly, stubbornly — is its own kind of pleasure.\n\n[VERDICT] A novel that belongs on every shelf. Every reread reveals something new. Absolute perfection."
+    },
+    {
+      "id": 5,
+      "emoji": "🌙",
+      "title": "\"A Court of Thorns and Roses\" — Delightful Chaos",
+      "bookAuthor": "Sarah J. Maas",
+      "genre": "fantasy",
+      "stars": 4,
+      "status": "published",
+      "date": "Jan 15, 2025",
+      "likes": 143,
+      "excerpt": "Wildly uneven, occasionally ridiculous, and completely impossible to put down. Maas writes compulsion the way some people breathe.",
+      "content": "## The Phenomenon Explained\n\nI resisted this series for years. I understand now that resistance was futile.\n\n> \"I was not a pet, not a doll, not an animal. I was a survivor, and I was angry.\"\n\n## Why It Works\n\nMaas writes momentum. Every chapter ends with you needing the next. Her world-building has the pleasing maximalism of a dream you're half-convinced is real. Feyre is a genuinely compelling protagonist — flawed, physical, driven.\n\n## Why It Doesn't Always Work\n\nThe prose is sometimes clumsy. The love triangle mechanics are occasionally eye-roll-worthy. None of this matters when you are reading at midnight because you physically cannot stop.\n\n[VERDICT] Read it with the understanding that you will immediately need book two. Plan your schedule accordingly."
+    },
+    {
+      "id": 6,
+      "emoji": "🌿",
+      "title": "\"Braiding Sweetgrass\" — A Book That Changes You",
+      "bookAuthor": "Robin Wall Kimmerer",
+      "genre": "non-fiction",
+      "stars": 5,
+      "status": "draft",
+      "date": "Jan 5, 2025",
+      "likes": 0,
+      "excerpt": "Draft in progress — Kimmerer braids indigenous wisdom with plant science to create something genuinely profound.",
+      "content": "## Draft\n\nThis review is still being written. Return soon. 🌿"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "postId": 1,
+      "name": "Priya S.",
+      "avatar": "🌸",
+      "text": "This review made me want to reread it immediately. \"Never managed to say the right thing at the right time\" — that line breaks me every time.",
+      "time": "2h ago"
+    },
+    {
+      "id": 2,
+      "postId": 1,
+      "name": "Lena M.",
+      "avatar": "📚",
+      "text": "Rooney is surgical. Perfect description.",
+      "time": "5h ago"
+    },
+    {
+      "id": 3,
+      "postId": 2,
+      "name": "Clara B.",
+      "avatar": "🕯️",
+      "text": "The \"too tidy\" critique is so fair. I still sobbed, but you're right.",
+      "time": "1d ago"
+    },
+    {
+      "id": 4,
+      "postId": 3,
+      "name": "Rose T.",
+      "avatar": "🌹",
+      "text": "Waiting for book three has genuinely changed me as a person (not for the better).",
+      "time": "3d ago"
+    },
+    {
+      "id": 5,
+      "postId": 4,
+      "name": "Amara K.",
+      "avatar": "✨",
+      "text": "The opening sentence is a crime it's so good.",
+      "time": "4d ago"
+    }
+  ]
+}

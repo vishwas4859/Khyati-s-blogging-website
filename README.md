@@ -1,22 +1,31 @@
-# Terminal Chat
+# Ink & Emotion
 
-Small dependency-free terminal chat interface built with Python `curses`.
+Static blog UI plus a small Node backend with JSON persistence.
 
 ## Run
 
 ```bash
 cd /Users/abcd/terminal-chat
-python3 app.py
+npm start
 ```
 
-## Commands
+Open `http://127.0.0.1:3000`.
 
-- `/help`
-- `/clear`
-- `/save`
-- `/quit`
+## Admin Login
 
-## Notes
+- Default password: `admin123`
+- Default email fallback: `admin@inkandemotion.com`
 
-- This ships with a local placeholder bot so the interface works immediately.
-- If you want a real AI backend, replace `build_reply()` in [app.py](/Users/abcd/terminal-chat/app.py).
+You can override both with environment variables:
+
+```bash
+ADMIN_EMAIL=you@example.com ADMIN_PASSWORD=strong-password npm start
+```
+
+## What The Backend Does
+
+- serves `ink-and-emotion.html` and `frontend.js`
+- stores reviews and comments in `data/store.json`
+- supports admin login with a cookie session
+- supports creating, editing, and deleting reviews
+- supports posting comments and updating like counts

@@ -1,0 +1,9 @@
+{
+  "name": "ink-and-emotion",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Backend-enabled blogging site for Ink & Emotion.",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
